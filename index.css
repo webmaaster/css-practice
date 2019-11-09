@@ -31,7 +31,7 @@ h4 {
     border: 5px solid rebeccapurple;
 
 }*/
-/* Text-decoration */
+/* Text-decoration 
 
 h1, h2, h3 {
     font-family: Ariel;
@@ -42,8 +42,29 @@ h1, h2, h3 {
     font-style: italic;
     margin: 50px;
     padding: 25px;
+    text-decoration: overline;
+    Options:
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: none;
+
+}*/
+/* Text - transform */
+h2, h3 {
+    text-transform: capitalize;
+    margin: 50px;
+    padding: 25px;
+   /* text-decoration: overline;
     
+    text-decoration: underline;*/
+    text-decoration: line-through;
+    
+
+
 }
+
+
+
 
 
 
