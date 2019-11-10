@@ -95,12 +95,47 @@ ul {
     list-style: none;
     list-style-image: url(images/);*/
 }
-
+/*
 ol {
-    /*list-style-type: lower-roman;*/
+    list-style-type: lower-roman;
     list-style-type: lower-alpha;
     
+}*/
+
+h1 {
+    background-color: gold;
+    color: red;
+    text-transform: uppercase;
+    width: 1100px;
+    height: 150px;
+    margin: 25px;
+    padding: 25px;
+    border: 15px red solid;
+
 }
+
+
+
+p {
+    background-color: green;
+    color: red;
+    text-transform: capitalize;
+    width: 1100px;
+    height: 150px;
+    margin: 25px;
+    padding: 25px;
+    border: 15px red solid;
+
+}
+.lorem {
+    color: pink;
+}
+
+
+
+
+
+
 
 
 
