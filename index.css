@@ -69,21 +69,45 @@ h2, h3 {
 
 */
 
-/* text-align: ; & line-height: ;*/
+/* text-align: ; & line-height: ;
+
 
 h1, p {
     
     font-size: 35px;
     line-height: 30px;
     text-align: center;
-    /*option:
+    option:
     text-align: justify;
     text-align: right;
-*/
+
     margin: 50px;
     padding: 25px;
     border: 5px red dotted;
 }
+*/
+
+/* List-style */
+ul {
+    list-style: disc;
+    /*list-style: circle;
+    list-style: square;
+    list-style: none;
+    list-style-image: url(images/);*/
+}
+
+ol {
+    /*list-style-type: lower-roman;*/
+    list-style-type: lower-alpha;
+    
+}
+
+
+
+
+
+
+
 
 
 
