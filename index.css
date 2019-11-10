@@ -132,7 +132,7 @@ p {
 }
 
 */
-
+/*
 h1 {
     background-color: green;
     color: red;
@@ -169,8 +169,24 @@ h1 {
 
 
 }
+span {
+    color: blue;
+}
 
 
+*/
+
+
+
+div {
+    background-color:red;
+    color: gold;
+    width: 900px;
+    height: 400px; 
+    margin: 50px;
+    padding: 100px;
+    border: 15px solid green;
+}
 
 
 
