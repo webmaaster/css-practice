@@ -160,7 +160,15 @@ h1 {
 
 }
 
+.bottom {
+    background-color: grey;
+    color: green;
+    margin: 50px;
+    padding: 25px;
+    border: 25px solid gold;
 
+
+}
 
 
 
