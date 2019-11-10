@@ -101,7 +101,7 @@ ol {
     list-style-type: lower-alpha;
     
 }*/
-
+/* Class
 h1 {
     background-color: gold;
     color: red;
@@ -130,6 +130,44 @@ p {
 .lorem {
     color: pink;
 }
+
+*/
+
+h1 {
+    background-color: green;
+    color: red;
+    margin: 50px;
+    padding: 25px;
+    border: 25px solid red;
+}
+
+#special {
+    background-color: red;
+    color: green;
+    margin: 50px;
+    padding: 25px;
+    border: 25px solid gold;
+
+}
+
+.important {
+    background-color: green ;
+    color: hotpink;
+    margin: 50px;
+    padding: 25px;
+    border: 25px solid gold;
+
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
