@@ -58,7 +58,14 @@ h2, h3 {
     
     text-decoration: underline;*/
     text-decoration: line-through;
-    
+    letter-spacing: 10px;
+    word-spacing: 15px;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: green;
+    color: red;
+    width: 900px;
+    height: 200px;
 
 
 }
