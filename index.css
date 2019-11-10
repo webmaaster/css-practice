@@ -11,7 +11,7 @@ h4 {
 }
 
 */
-/* Font-famly */
+/* Font-famly 
 p {
     color: gold;
     font-family: sans-serif;
@@ -19,7 +19,7 @@ p {
     margin: 20px;
     border: 5px solid rebeccapurple;
 
-}
+}*/
 /* Font-family
 h4 {
     color: green;
@@ -49,14 +49,14 @@ h1, h2, h3 {
     text-decoration: none;
 
 }*/
-/* Text - transform */
+/* Text - transform 
 h2, h3 {
     text-transform: capitalize;
     margin: 50px;
     padding: 25px;
    /* text-decoration: overline;
     
-    text-decoration: underline;*/
+    text-decoration: underline;
     text-decoration: line-through;
     letter-spacing: 10px;
     word-spacing: 15px;
@@ -67,8 +67,29 @@ h2, h3 {
     width: 900px;
     height: 200px;
 
+*/
 
+/* text-align: ; & line-height: ;*/
+
+h1, p {
+    
+    font-size: 35px;
+    line-height: 30px;
+    text-align: center;
+    /*option:
+    text-align: justify;
+    text-align: right;
+*/
+    margin: 50px;
+    padding: 25px;
+    border: 5px red dotted;
 }
+
+
+
+
+
+
 
 
 
